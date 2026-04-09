@@ -67,7 +67,7 @@ FetchContent_Declare(
 )
 
 FetchContent_Declare(jl777-coins
-        URL https://github.com/cipig/coins/archive/nogeo.zip)
+        URL https://github.com/KomodoPlatform/coins/archive/master.zip)
 
 FetchContent_MakeAvailable(kdf jl777-coins qmaterial)
 
